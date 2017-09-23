@@ -12,38 +12,6 @@ Module Mudule1
     Public kOSONGCOMBO As Boolean
     Public BISALOGIN As Boolean
 
-    Public Function KeurLogin(Tabelna As String, fieldna As String, Usernamena As TextBox, Passwordna As TextBox, LokasiUsename As Integer, LokasiPassword As Integer, ERRORP As ErrorProvider) As Boolean
-        Try
-            SQLCONNECTION.Open()
-
-            SQLCMD = New MySqlCommand("select * from " & Tabelna & " where  " & fieldna & " = '" & Usernamena.Text.Replace("'", "''") & "'", SQLCONNECTION)
-            SQLDA = New MySqlDataAdapter(SQLCMD)
-            SQLDR = SQLCMD.ExecuteReader
-            SQLDR.Read()
-
-            If Usernamena.Text = "" Then
-                ERRORP.SetError(Usernamena, "Isi Bidang ini !")
-                Usernamena.Select()
-            ElseIf Passwordna.Text = "" Then
-                ERRORP.SetError(Passwordna, "Isi Bidang ini !")
-                Passwordna.Select()
-            Else
-
-
-            End If
-
-
-            SQLCONNECTION.Close()
-            Return True
-        Catch ex As Exception
-            MsgBox("Gagal : " + ex.Message, MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "Gagal !")
-            If SQLCONNECTION.State = ConnectionState.Open Then
-                SQLCONNECTION.Close()
-            End If
-            Return False
-        End Try
-    End Function
-
     Public Sub nampilkeunData(Tabelna As String, Grid As DataGridView)
         Try
             SQLCONNECTION.Open()
