@@ -1,0 +1,15 @@
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\bin\Debug\Module_Test.exe.config
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\bin\Debug\Module_Test.exe
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\bin\Debug\Module_Test.pdb
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\bin\Debug\Module_Test.xml
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\bin\Debug\MySql.Data.dll
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\bin\Debug\MySql.Data.xml
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.vbprojResolveAssemblyReference.cache
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.LoginForm.resources
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.MainForm.resources
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.Resources.resources
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.vbproj.GenerateResource.Cache
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.exe
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.xml
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.pdb
+c:\users\xyrus10\documents\visual studio 2015\Projects\Module_Test\Module_Test\obj\Debug\Module_Test.AddDataFrom.resources

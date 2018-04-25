@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Module_Test
+</name>
+</assembly>
+<members>
+<member name="T:Module_Test.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Module_Test.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Module_Test.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Module_Test.Module1">
+     =====  MODULE MYSQL  =====    '''
+                                   '''
+ Pembuat : Ibnu Rizqia Ramadan     '''
+ Jurusan : RPL angkatan 15         '''
+ VERSI   : 1.3.5 (BETA)            '''
+                                   '''
+        Terimakasih Kepada         '''
+  Teman - teman yg sudah membantu  '''
+     =====  MODULE MYSQL  =====    '''
+</member>
+<member name="F:Module_Test.Module1.SERVER">
+ DATABASE SETTING !!!
+</member>
+<member name="F:Module_Test.Module1.SHOW_ERROR">
+ ERROR SETTING !!!
+</member>
+<member name="F:Module_Test.Module1.CAL">
+ DATAGRIDVIEW HEADER/CONTENT ALIGNMENT
+</member>
+</members>
+</doc>
